@@ -1,4 +1,4 @@
-#This file contains the pipeline-as-code definition for Jenkins.
+
 pipeline {
     agent any
     stages {
