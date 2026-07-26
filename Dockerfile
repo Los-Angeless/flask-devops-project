@@ -1,4 +1,4 @@
-This file defines the environment for the Flask application container.
+#This file defines the environment for the Flask application container.
 # Use an official Python runtime as a parent image
 FROM python:3.9-slim
 
