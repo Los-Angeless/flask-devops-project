@@ -1,4 +1,4 @@
-This file defines and orchestrates the multi-container application (Flask and MySQL). 
+#This file defines and orchestrates the multi-container application (Flask and MySQL). 
 
 version: "3.8"
 
